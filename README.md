@@ -109,15 +109,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanzeelajvd&label=Profile%20views&color=0e75b6&style=flat" alt="tanzeelajvd" /> </p>
 
-- 🔭 Currently focused on **Automated Assessment of Tumor Infiltrating Lymphocytes in HER2+ and Triple Negative Breast Cancer**
-
-- 🌱 Actively mastering **TensorFlow, PyTorch, Convolutional Neural Networks, and Reinforcement Learning**
-
-- 👯 Eager to collaborate on **Cutting-edge Computer Vision Projects**
-
-- 💬 Let's discuss **Python, Computer Vision, Medical Imaging, Data Analytics, and Machine Learning**
-
-- 📫 Reach out to me at **tanzeelajavid.kaloo@outlook.com**
+<ul style="list-style-type: none; margin-left: 20px;">
+    <li>🔭 Currently focused on <strong>Automated Assessment of Tumor Infiltrating Lymphocytes in HER2+ and Triple Negative Breast Cancer</strong></li>
+    <li>🌱 Actively mastering <strong>TensorFlow, PyTorch, Convolutional Neural Networks, and Reinforcement Learning</strong></li>
+    <li>👯 Eager to collaborate on <strong>Cutting-edge Computer Vision Projects</strong></li>
+    <li>💬 Let's discuss <strong>Python, Computer Vision, Medical Imaging, Data Analytics, and Machine Learning</strong></li>
+    <li>📫 Reach out to me at <strong>tanzeelajavid.kaloo@outlook.com</strong></li>
+</ul>
 
 ### Technical Skills:
 - **Languages:** Python, C++, MATLAB
