@@ -1,26 +1,27 @@
-<h1 align="center">Hi 👋, I'm Tanzeela Javid</h1>
-<h3 align="center">Medical Imaging Researcher | Computer Vision Engineer</h3>
+<h1 align="center">Hello there! I'm Tanzeela Javid 👋</h1>
+<h3 align="center">Passionate Computer Vision Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanzeelajvd&label=Profile%20views&color=0e75b6&style=flat" alt="tanzeelajvd" /> </p>
 
-- 🔭 I’m currently working on **Automated Assessment of Tumor Infiltrating Lymphocytes in HER2+ and Triple Negative Breast Cancer**
+- 🔭 Currently focused on **Automated Assessment of Tumor Infiltrating Lymphocytes in HER2+ and Triple Negative Breast Cancer**
 
-- 🌱 I’m currently learning **TensorFlow, PyTorch, Convolutional Neural Networks, Reinforcement Learning**
+- 🌱 Actively mastering **TensorFlow, PyTorch, Convolutional Neural Networks, and Reinforcement Learning**
 
-- 👯 I’m looking to collaborate on **Medical Imaging Projects**
+- 👯 Eager to collaborate on **Cutting-edge Computer Vision Projects**
 
-- 💬 Ask me about **Python, Medical Imaging, Data Analytics, Machine Learning**
+- 💬 Let's discuss **Python, Computer Vision, Medical Imaging, Data Analytics, and Machine Learning**
 
-- 📫 How to reach me: **tanzeelajavid.kaloo@outlook.com**
+- 📫 Reach out to me at **tanzeelajavid.kaloo@outlook.com**
 
 ### Technical Skills:
-- **Programming Languages:** Python, C++, MATLAB
-- **Development Tools:** Linux, PyCharm, Jupyter Notebook, Anaconda, Git, GitHub
-- **Frameworks and Libraries:** OpenCV, TensorFlow, PyTorch, SciPy, NumPy, scikit-image, scikit-learn, Pillow, OpenSlide, Keras
-- **Image Processing Techniques:** Image Enhancement, Color Space Manipulation, Image Restoration, Feature Extraction, Geometric Transformations, Image Thresholding, Image Segmentation, Object Detection
-- **Machine Learning and Deep Learning:** Model Training, Fine-Tuning, Feature Engineering, CNNs, RNNs, Deep Learning Architectures, Reinforcement Learning, AutoEncoders
-- **Algorithms:** Knowledgeable in YOLO and Structure from Motion (StFM).
+- **Languages:** Python, C++, MATLAB
+- **Tools:** Linux, PyCharm, Jupyter Notebook, Anaconda, Git, GitHub
+- **Frameworks:** OpenCV, TensorFlow, PyTorch, SciPy, NumPy, scikit-image, scikit-learn, Pillow, OpenSlide, Keras
+- **Image Processing:** Enhancement, Color Manipulation, Restoration, Feature Extraction, Geometric Transformations, Thresholding, Segmentation, Object Detection
+- **Machine Learning:** Model Training, Fine-Tuning, Feature Engineering, CNNs, RNNs, Deep Learning Architectures, Reinforcement Learning, AutoEncoders
+- **Algorithms:** YOLO, Structure from Motion (StFM)
+
 
 
 <h3 align="left">Connect with me:</h3>
