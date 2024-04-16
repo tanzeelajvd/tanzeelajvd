@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello there! I'm Tanzeela Javid 👋</h1>
 <h3 align="center">Passionate Computer Vision Engineer</h3>
-<img align="right" alt="Coding" height="200" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
+<img align="right" alt="Coding" height="320" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanzeelajvd&label=Profile%20views&color=0e75b6&style=flat" alt="tanzeelajvd" /> </p>
 
