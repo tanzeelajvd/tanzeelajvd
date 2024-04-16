@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/tanzeelajavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanzeelajavid" height="30" width="40" /></a>
-<a href="https://fb.com/tanzeelajavid.kaloo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanzeelajavid.kaloo" height="30" width="40" /></a>
+<a href="https://fb.com/tanzeelajavid.kaloo" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg](https://icons8.com/icon/13930/linkedin)" alt="tanzeelajavid.kaloo" height="30" width="40" /></a>
 <a href="https://instagram.com/tanzeelajavid.kaloo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanzeelajavid.kaloo" height="30" width="40" /></a>
 <a href="https://medium.com/@tanzeela.jvd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tanzeela.jvd" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tanzeelajavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanzeelajavid" height="30" width="40" /></a>
