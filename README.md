@@ -34,15 +34,25 @@
 <a href="https://auth.geeksforgeeks.org/user/tanzeelajavid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tanzeelajavid" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h3 style="text-align: left;">Languages and Tools:</h3>
+<p style="text-align: left;">
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
+    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="text-decoration: none; margin-right: 10px;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzeelajvd&show_icons=true&locale=en&layout=compact" alt="tanzeelajvd" /></p>
+<p style="clear: both;"></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanzeelajvd&show_icons=true&locale=en" alt="tanzeelajvd" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeelajvd&layout=compact&theme=dark" alt="tanzeelajvd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzeelajvd&" alt="tanzeelajvd" /></p>
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=tanzeelajvd&show_icons=true&theme=dark" alt="tanzeelajvd" /></p>
 
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tanzeelajvd&theme=dark" alt="tanzeelajvd" /></p>
 
 
 
