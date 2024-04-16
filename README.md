@@ -1,18 +1,4 @@
-<div style="background-color: #f3f4f6; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
-    <h1 style="text-align: center; margin-bottom: 10px;">Hello there! I'm Tanzeela Javid 👋</h1>
-    <h3 style="text-align: center; margin-bottom: 20px;">Passionate Computer Vision Engineer</h3>
-    <img src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif" alt="Coding" style="float: right; width: 300px; border-radius: 10px; margin-left: 20px;">
-    <div style="overflow: hidden;">
-        <p style="margin-left: 20px; margin-right: 20px;"> <img src="https://komarev.com/ghpvc/?username=tanzeelajvd&label=Profile%20views&color=0e75b6&style=flat" alt="tanzeelajvd" style="float: left; margin-right: 10px;" /> </p>
-        <ul style="list-style-type: none; margin-left: 20px;">
-            <li>🔭 Currently focused on <strong>Automated Assessment of Tumor Infiltrating Lymphocytes in HER2+ and Triple Negative Breast Cancer</strong></li>
-            <li>🌱 Actively mastering <strong>TensorFlow, PyTorch, Convolutional Neural Networks, and Reinforcement Learning</strong></li>
-            <li>👯 Eager to collaborate on <strong>Cutting-edge Computer Vision Projects</strong></li>
-            <li>💬 Let's discuss <strong>Python, Computer Vision, Medical Imaging, Data Analytics, and Machine Learning</strong></li>
-            <li>📫 Reach out to me at <strong>tanzeelajavid.kaloo@outlook.com</strong></li>
-        </ul>
-    </div>
-</div>
+
 
 <h3 style="text-align: left;">Connect with me:</h3>
 <p style="text-align: left;">
