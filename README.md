@@ -14,12 +14,12 @@
 </ul>
 
 ### What You Can Find in My GitHub Repositories:
-- 🔹 **Machine Learning Projects:** Model development, optimization, and deployment examples.
-- 🔹 **Deep Learning Experiments:** CNNs, LSTMs, transfer learning projects.
-- 🔹 **Computer Vision Applications:** Medical imaging, object detection, segmentation.
-- 🔹 **Course Repositories:** Educational content and open-source projects for AI, Machine Learning, Intelligent Systems, and Operating Systems (CAP378, CAP379, CAP450, CAP781, DECAP737, CAP213, CAP366).
-- 🔹 **Kaggle Competitions:** Code and solutions for real-world ML tasks.
-- 🔹 **Streamlit and Docker Deployments:** Deployed interactive ML applications.
+🔹 **Machine Learning Projects:** Model development, optimization, and deployment examples.
+🔹 **Deep Learning Experiments:** CNNs, LSTMs, transfer learning projects.
+🔹 **Computer Vision Applications:** Medical imaging, object detection, segmentation.
+🔹 **Course Materials:** AI lab exercises including Prolog implementations, heuristic search algorithms, Python-based AI algorithm implementations, JupyterLab notebooks for ML/AI learning and project-based development.
+🔹 **Kaggle Competitions:** Code and solutions for real-world ML tasks.
+🔹 **Streamlit and Docker Deployments:** Deployed interactive ML applications.
 
 ### Technical Skills:
 - **Languages:** Python, C++, MATLAB
