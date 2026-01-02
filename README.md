@@ -82,35 +82,35 @@ If you’re working on a **serious ML or deep learning project** and value clean
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://kaggle.com/tanzeelajavid" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /> <br>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="50" width="40" /> <br>
 </a>
 <a href="https://www.linkedin.com/in/tanzeela-javid-k-57686712a/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /> <br>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="40" /> <br>
 </a>
 <a href="https://medium.com/@tanzeela.jvd" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /> <br>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="50" width="40" /> <br>
 </a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> <br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="40"/> <br>
     
 </a>
 <a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/> <br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="40"/> <br>
 </a>
 <a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> <br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="50"/> <br>
 </a>
 <a href="https://www.tensorflow.org" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> <br>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="50"/> <br>
 </a>
 <a href="https://opencv.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> <br>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="50"/> <br>
 </a>
 <a href="https://streamlit.io/" target="_blank">
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" height="40"/> <br>
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" height="50"/> <br>
 </a>
 </p>
