@@ -96,6 +96,7 @@ If you’re working on a **serious ML or deep learning project** and value clean
 <p align="left">
 <a href="https://www.python.org" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+    
 </a>
 <a href="https://pandas.pydata.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
