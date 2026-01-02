@@ -54,6 +54,31 @@ style="border: 80px solid #ffffff;">
 
 ---
 
+### 🤝 Collaboration & Research Interests
+
+I’m actively interested in collaborating on **research-oriented and state-of-the-art machine learning projects**, particularly those that push beyond standard tutorials and focus on **real problems, strong methodology, and meaningful evaluation**.
+
+Areas I’m especially excited to collaborate on:
+<ul>
+    <li>🧠 <strong>Deep Learning & Representation Learning</strong> — CNNs, feature learning, model interpretability</li>
+    <li>🖼️ <strong>Image Analysis & Computer Vision</strong> — medical imaging, image classification, segmentation, and real-world vision challenges</li>
+    <li>🔬 <strong>Research-Driven ML Projects</strong> — reproducible experiments, ablation studies, and paper-inspired implementations</li>
+    <li>📊 <strong>Applied ML with Strong Foundations</strong> — feature engineering, evaluation rigor, and explainability</li>
+    <li>🚀 <strong>State-of-the-Art Experiments</strong> — adapting recent research ideas into clean, working codebases</li>
+</ul>
+
+I’m particularly interested in collaborations that involve:
+<ul>
+    <li>building or extending research prototypes,</li>
+    <li>reproducing or improving published results,</li>
+    <li>tackling challenging datasets in vision or structured data,</li>
+    <li>and translating research ideas into applied ML systems.</li>
+</ul>
+
+If you’re working on a **serious ML or deep learning project** and value clean experimentation, thoughtful analysis, and reproducibility, I’d love to collaborate.
+
+---
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://kaggle.com/tanzeelajavid" target="blank">
@@ -87,16 +112,4 @@ style="border: 80px solid #ffffff;">
 <a href="https://streamlit.io/" target="_blank">
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" height="40"/>
 </a>
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzeelajvd&layout=compact&theme=dark" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=tanzeelajvd&show_icons=true&theme=dark" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanzeelajvd&theme=dark" />
 </p>
